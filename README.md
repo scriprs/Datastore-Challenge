@@ -8,7 +8,7 @@ The reason why multi-threading is required is to save performance over multiple 
 Pcalls are also required to handle errors.
 
 # The Task
-Create a safe datastore suystem that saves a login counter of a person.
+Create a safe datastore system that saves a login counter of a person.
 The script should create the datastore and pass it over to the modulescript.
 The modulescript will proceed to save and load data.
 The GetData function will get the current data from the InternalData folder within the player.
