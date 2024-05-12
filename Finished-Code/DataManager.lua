@@ -11,7 +11,7 @@ DataManager.load = function(Player: Player, DataStore: DataStore)
 		local Folder = Instance.new("Folder")
 		Folder.Name = "InternalData"
 
-		local LoginCounter = Instance.new("IntValue")
+		local LoginCounter = Instance.new("NumberValue")
 		LoginCounter.Name = "LoginCounter"
 		LoginCounter.Value = if typeof(data) == "number" then data else 1
 
