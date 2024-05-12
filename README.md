@@ -18,6 +18,6 @@ The shared.GetData method will be used to 3 seconds after the data has loaded pr
 The start code to work with is within the template folder.
 If you need any help, the full code is within the finished folder.
 For personal help, my discord tag is: vagolla.
-(No worries if your code looks differently than mine. It doesn't have to be the same.)
+(No worries if your code looks different from mine. It doesn't have to be the same.)
 
 Goodluck everyone who tries this challenge!
